@@ -9,3 +9,5 @@
 1. Create a Pipeline which is able to handle Bayesian Network creation starting from any Dataset.
 2. Build a Bayesian Network Model starting from a Dataset downloaded from Kaggle
 3. Test the Network through queries inspired by the module's content.
+
+Project Report available in the <a href="https://github.com/drchapman-17/faikr-bn/blob/main/final.ipynb"> final.ipynb </a> file.
